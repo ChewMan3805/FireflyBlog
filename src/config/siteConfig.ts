@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "席梦思的博客",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.simms.work",
 
 	// 站点描述
 	description:
