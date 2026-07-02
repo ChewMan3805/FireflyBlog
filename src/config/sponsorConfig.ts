@@ -9,7 +9,7 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 打赏用途说明
 	usage:
-		"您的打赏将用于服务器维护、内容创作和功能开发，帮助我持续提供优质内容。",
+		"您的打赏将用于支持 Firefly 博客框架作者，而非个人博客作者本人。我希望您的支持能帮助到 Firefly 博客框架，为这一优秀项目提供支持和鼓励。",
 
 	// 是否显示打赏者列表
 	showSponsorsList: true,
