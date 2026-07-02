@@ -87,7 +87,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"Travelers encore",
+				"Travelers'encore",
 				"Let There Be Light ",
 				"14.3 Billion Years",
 				"Campfire Song",
