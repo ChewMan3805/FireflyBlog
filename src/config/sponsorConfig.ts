@@ -2,17 +2,17 @@ import type { SponsorConfig } from "../types/sponsorConfig";
 
 export const sponsorConfig: SponsorConfig = {
 	// 页面标题，如果留空则使用 i18n 中的翻译
-	title: "",
+	title: "支持开源项目",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
-	description: "",
+	description: "支持 Firefly 博客框架的开发作者，为这个优质开源项目提供动力。",
 
 	// 打赏用途说明
 	usage:
-		"您的打赏将用于支持 Firefly 博客框架作者，而非个人博客作者本人。我希望您的支持能帮助到 Firefly 博客框架，为这一优秀项目提供支持和鼓励。",
+		"您的打赏将用于支持 Firefly 博客框架的开发作者，而非本个人博客站长。期待这份支持能助力 Firefly 框架持续迭代，为这个优质开源项目提供动力。",
 
 	// 是否显示打赏者列表
-	showSponsorsList: true,
+	showSponsorsList: false,
 
 	// 是否显示评论区，需要先在commentConfig.ts启用评论系统
 	showComment: true,
