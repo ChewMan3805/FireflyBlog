@@ -2,7 +2,7 @@
 title: 无服务器的情况下搭建自己的博客
 published: 2026-07-01
 description: 基于 Firefly 框架 & Cloudflare & Github & 域名 低成本搭建自己的博客
-image: ./cover.jpg
+image: ./cover.avif
 tags: [前端, 开发]
 category: 前端开发
 draft: false
